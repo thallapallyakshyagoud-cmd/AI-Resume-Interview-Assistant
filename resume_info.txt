@@ -1,0 +1,38 @@
+# Sample Resume — Software Engineer
+
+Name: Priya Sharma
+Email: priya.sharma@example.com
+Location: Hyderabad, India
+
+## Summary
+Software engineer with 3 years of experience building backend services and REST APIs using Java and Spring Boot. Strong background in relational databases, unit testing, and Agile delivery.
+
+## Skills
+Java, Spring Boot, Hibernate, REST APIs, MySQL, Oracle, Git, JUnit, Maven, Docker basics, Agile/Scrum.
+
+## Experience
+
+### Software Engineer — TechNova Solutions (2023 - Present)
+- Developed and maintained REST APIs for an internal order-management system using Spring Boot.
+- Reduced average API response time by 30% by optimizing database queries and adding indexes.
+- Wrote unit and integration tests with JUnit, increasing code coverage from 55% to 85%.
+- Collaborated with a 6-person Agile team, participating in daily standups and sprint planning.
+
+### Junior Developer — CodeWorks Pvt Ltd (2022 - 2023)
+- Built CRUD modules for an HR management application using Hibernate and MySQL.
+- Fixed production bugs and provided on-call support during release weeks.
+- Documented API endpoints using Swagger for internal and partner teams.
+
+## Projects
+
+### Employee Leave Management System
+Built a Java/Hibernate application to manage employee leave requests, approvals, and balances, with a MySQL backend and role-based access for employees and managers.
+
+### Library Management System
+Console-based Java application for issuing and returning books, tracking due dates, and calculating late fees.
+
+## Education
+B.Tech in Computer Science, KITS Institute of Technology, 2022. CGPA: 8.2/10.
+
+## Certifications
+Oracle Certified Associate, Java SE 8 Programmer.

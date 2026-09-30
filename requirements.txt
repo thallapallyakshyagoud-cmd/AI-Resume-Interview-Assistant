@@ -1,0 +1,5 @@
+streamlit>=1.30
+scikit-learn>=1.3
+numpy>=1.24
+pypdf>=4.0
+anthropic>=0.40   # optional: only used if ANTHROPIC_API_KEY is set, for richer Q&A/feedback generation
